@@ -1,0 +1,1 @@
+//see compress Image use react-native-compressor
