@@ -19,14 +19,14 @@
     "android": {
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyDWXvLGr1R8XOep0vv6HOJ-fcu9qPU9mkQ"
+          "apiKey": ""
         }
       },
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#3ac794"
       },
-      "package": "com.jkaranja.atwelia",
+      "package": "",
       "googleServicesFile": "./google-services.json"
     },
     "web": {
@@ -56,7 +56,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "89263046-2187-43d8-a143-1717ee57f9a1"
+        "projectId": "892630467f9a1"
       }
     }
   }
